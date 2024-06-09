@@ -1,0 +1,3 @@
+# Cussington
+
+Discord cuss bot
