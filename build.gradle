@@ -12,6 +12,9 @@ repositories {
 dependencies {
     testImplementation platform('org.junit:junit-bom:5.10.0')
     testImplementation 'org.junit.jupiter:junit-jupiter'
+
+
+    runtimeOnly 'org.apache.logging.log4j:log4j-core:2.23.0'
     implementation 'org.javacord:javacord:3.8.0'
 }
 
